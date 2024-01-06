@@ -1,2 +1,2 @@
 # open-chat
-Chat app
+A open chat app build using websocket.
